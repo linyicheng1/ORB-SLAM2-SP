@@ -46,6 +46,8 @@ ORB-SLAM2
 
 All data are averaged five times in CPU i5-9400f.
 
+<img src="https://user-images.githubusercontent.com/50650063/217273834-97e5e38d-c3ab-417d-85fd-8dca384ca9ad.png" width="60%">
+
 --- 
 
 # ORB-SLAM2
