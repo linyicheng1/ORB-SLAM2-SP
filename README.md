@@ -12,89 +12,37 @@ ORB-SLAM2
 
 <table border="1" bordercolor="black" width="600" cellspacing="0" cellpadding="5">
   <tr>
-    <td rowspan="2"> </td>
+    <td rowspan="2"> Track coverage </td>
     <td rowspan="2"> offline </td>
-    <td colspan="5" > real time </td>
+    <td colspan="6" > real time </td>
   </tr>
   <tr>
-    <td>15hz</td>
+    <td>100hz</td>
+    <td>50hz</td>
     <td>10hz</td>
     <td>5hz</td>
     <td>2hz</td>
-    <td>1hz</td>
    </tr>
    <tr>
-    <td> Track coverage </td>
+    <td> ORB-SLAM2 </td>
     <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-   </tr>
-   <tr>
-    <td> APE </td>
-    <td>1</td>
-    <td>1</td>
+    <td>0.22</td>
     <td>1</td>
     <td>1</td>
     <td>1</td>
     <td>1</td>
    </tr>
    <tr>
-    <td> RPE </td>
+    <td> ORB-SLAM2-SP </td>
     <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
+    <td>Not initialized</td>
+    <td>Not initialized</td>
+    <td>0.18</td>
+    <td>0.58</td>
     <td>1</td>
    </tr>
 </table>
 
-ORB-SLAM2-SP
-
-<table border="1" bordercolor="black" width="600" cellspacing="0" cellpadding="5">
-  <tr>
-    <td rowspan="2"> </td>
-    <td rowspan="2"> offline </td>
-    <td colspan="5" > real time </td>
-  </tr>
-  <tr>
-    <td>15hz</td>
-    <td>10hz</td>
-    <td>5hz</td>
-    <td>2hz</td>
-    <td>1hz</td>
-   </tr>
-   <tr>
-    <td> Track coverage </td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-   </tr>
-   <tr>
-    <td> APE </td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-   </tr>
-   <tr>
-    <td> RPE </td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-   </tr>
-</table>
 
 All data are averaged five times.
 
