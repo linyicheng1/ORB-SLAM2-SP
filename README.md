@@ -1,6 +1,8 @@
 # ORB-SLAM2-SP
+
+
 --- 
-**Note !!  This project is a reverse example.**
+**Note !!  This work was used to support the paper "FKM-EVA: An Image Matching Evaluation based on Data Association Types in vSLAM". This project is a reverse example.**
 - In offline operation, this code has higher robustness and performance.
 - In real time operation, this code does not maintain its performance.
 
